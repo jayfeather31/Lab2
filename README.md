@@ -2,4 +2,4 @@
 Repository for Lab1 Assignments
 # Spencer Romberg
 # Lab 2
-# Help Recieved: Jagadish Bapanapally; Sidney Jensen
+Help Recieved: Jagadish Bapanapally; Sidney Jensen
