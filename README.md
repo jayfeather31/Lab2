@@ -1,2 +1,5 @@
 # Lab2
-Repository used for Lab 2
+Repository for Lab1 Assignments
+# Spencer Romberg
+# Lab 2
+# Help Recieved: Jagadish Bapanapally; Sidney Jensen
